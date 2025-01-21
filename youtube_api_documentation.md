@@ -137,10 +137,3 @@ Common error responses include:
 
 ## Rate Limits
 The YouTube API has a rate limit of 100 requests per hour per API key. Exceeding this limit will result in a `429 Too Many Requests` error.
-
----
-
-## Contact Information
-For any inquiries or support, please contact us at:
-- **Email**: support@yourdomain.com
-- **Website**: [yourdomain.com](http://yourdomain.com)
